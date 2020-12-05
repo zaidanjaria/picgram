@@ -1,0 +1,9 @@
+
+
+
+"name" : "JohnDoe22",
+	"email" : "JohnDoe22@testing.com",
+
+
+    	"email" : "TestUser@testing.com",
+	"password" : "test123"
